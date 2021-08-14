@@ -2,7 +2,7 @@
 
 [Download Git from here](https://git-scm.com/downloads)
 
-### Configuring Credentials
+## Configuring Credentials
 
 `git config --global user.name <your name>`
 Configuring your name for all the repositories on the local computer
@@ -16,18 +16,7 @@ Displays the current name set for the local computer
 `git config user.email`
 Display the current email set for the local computer
 
-### Branches
-
-`git branch <branch-name>`
-Creates a new branch with the `<branch-name>`
-
-`git checkout <branch-name>`
-Moves the head to the `<branch-name>`
-
-`git checkout -b <branch-name>`
-Creates a new branch (if not exists) and checkouts to the created branch
-
-### Basic Commands
+## Basic Commands
 
 `git init`
 Initialize a git repository in the current folder
@@ -62,9 +51,22 @@ Getting the new changes from the remote repo and merging
 them with your local repo
 
 `git status`
-
 It shows the list of all files  that we have changed or needs to be changed 
 
 `git log` 
+Gets the history of all commits in reverse chronological order
 
-use this command to get the history of all commits in reverse chronological order
+## Branches
+
+`git branch <branch-name>`
+Creates a new branch with the `<branch-name>`
+
+`git checkout <branch-name>`
+Moves the head to the `<branch-name>`
+
+`git checkout -b <branch-name>`
+Creates a new branch (if not exists) and checkouts to the created branch
+
+## Collaborating with others
+`git fetch` 
+`git log --remotes`
