@@ -4,7 +4,7 @@ ES6 stands for ECMA Script Standards 6 / ES6 / ES 2015. The following features w
 ## Arrow Functions `ES6`
 ### Single Line Functions
 
-```
+
 ## Destructuring 
 ### Array Destructuring
 ### Object Destructuring

@@ -40,5 +40,8 @@ Examples Of Python Statements: Assignment statements, conditional branching, loo
 
 ## syntax 
 
-[more to refere and write from](https://hackr.io/blog/programming-terms-definitions-for-beginners)
 
+## traverse
+
+## iterate / iteration
+[more to refer and write from](https://hackr.io/blog/programming-terms-definitions-for-beginners)
