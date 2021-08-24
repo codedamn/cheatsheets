@@ -14,3 +14,15 @@ There are three keywords for declaring variables in JS.
     ```
 
 3. `const` : declare a variable but once declared can not be changed
+
+
+
+## Variable Shadowing
+blocking the access to the top level scope variable by defining a variable in the local scope
+
+```jsx
+const myAge = 17;
+function (checkAge) {
+	let checkAge = 25;
+	return checkAge > 18 ? true : false; // this is always return true because the function already has a checkAge variable so this function can never access the varaible in the Top Level
+```
