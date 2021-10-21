@@ -1,6 +1,5 @@
 # Git Cheat Sheet
-
-[Download Git from here](https://git-scm.com/downloads)
+ Git is a [Distributed Version Control System](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control#_distributed_version_control_systems) that helps software developers around the world to store their code by creating versions of it and tracking them. Git also helps in collaborating with other developers and maintaining your code and documenting it for further use. You can [Download Git from here](https://git-scm.com/downloads)
 
 ## Configuring Credentials
 
@@ -67,6 +66,6 @@ Moves the head to the `<branch-name>`
 `git checkout -b <branch-name>`
 Creates a new branch (if not exists) and checkouts to the created branch
 
-## Collaborating with others
+<!-- ## Collaborating with others
 `git fetch` 
-`git log --remotes`
+`git log --remotes` -->
