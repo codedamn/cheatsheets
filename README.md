@@ -3,9 +3,9 @@
 This repository hosts the English content of the Codedamn Cheatsheets, published in https://codedamn.com/cheatsheets
 
 ## Contributions
-We are open to contributions and PR's from all every Dev.
+We are open to contributions and PR's from every Dev around the world.
 
-You can edit the text in any editor. Cheatsheets uses enhanced "markdown" format, easy to grasp and write.
+You can edit the text in any editor. Cheatsheets uses enhanced "markdown" format, it's easy to grasp and write.
 
 ## Structure
 Every main topic has a folder for itself.
