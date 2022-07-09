@@ -1,6 +1,6 @@
 # Codedamn Cheatsheets
 
-This repository hosts the English content of the Codedamn Cheatsheets, published in https://codedamn.com/cheatsheets
+This repository hosts the English content of the Codedamn Cheatsheets
 
 ## Contributions
 We are open to contributions and PR's from every Dev around the world.
